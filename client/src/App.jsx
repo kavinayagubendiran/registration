@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
 import './App.css'
 
-const API_URL = 'http://localhost:5000'
+const API_URL = 'https://student-registration-4kq0.onrender.com'
 
 const companies = [
   { name: 'TCS', mark: 'T', tone: 'blue' }, { name: 'Infosys', mark: 'I', tone: 'orange' },
